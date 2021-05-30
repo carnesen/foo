@@ -2,6 +2,10 @@
 
 ## Upcoming
 
+## v2.0.0 (2021-05-29)
+
+- I changed something
+
 ## v1.0.9 (2021-05-29)
 
 
